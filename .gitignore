@@ -1,5 +1,6 @@
 # this is comment line
 temp_file.txt
+temp_file2.txt
 *.zip
 *.gz
 log/*.log
