@@ -1,0 +1,8 @@
+# this is comment line
+temp_file.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+!assets/videos/tour_*.mp4
